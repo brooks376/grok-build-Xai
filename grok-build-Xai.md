@@ -59,6 +59,9 @@ Runtime: Node.js / Edge Runtime
 
 State Management: Zustand / React Query
 
+
+
+
 ## 📖 Usage
 Initialize: Start a new project from the main dashboard.
 
@@ -68,7 +71,7 @@ Refine: Use the chat interface to tweak styles, add features, or refactor logic 
 
 Deploy: Connect your GitHub account and deploy your creation to the web with a single click.
 
-## 🤝 Contributing
+## 🤝Contributing
 Contributions make the open-source community an amazing place to learn and create.
 
 Fork the Project
